@@ -1,10 +1,6 @@
 package lab22;
 
-import java.util.Scanner;
-
 public class Ajutor {
-	
-	private static Scanner scan= new Scanner(System.in);
 	
 	public void Afisare() {
 		
@@ -14,9 +10,9 @@ public class Ajutor {
 	
 	public void Info() {
 		
-		System.out.println("Lab1");
-		System.out.println("Universitatea Politehnica Timisoara");
-		System.out.println("Gherman Grigore");
+		System.out.println("Lab2");
+		System.out.println("Facultatea de Automatica si Calculatoare");
+		System.out.println("Trocin Nichita");
 	}
 	
 }
